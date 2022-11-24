@@ -1,0 +1,13 @@
+{
+  "chroma": {
+    "developerName": "Max Steinberg",
+    "developerContact": "supachatdaemon@gmail.com",
+    "category": "application",
+    "supportedDevices": ["keyboard", "mouse", "mousepad", "keypad", "headset", "chromalink"],
+    "description": "pychroma example animations",
+    "title": "pychroma examples"
+  },
+  "devices": {
+    "mouse": "Razer Mamba Wireless"
+  }
+}
