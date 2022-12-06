@@ -11,8 +11,8 @@ import scipy
 #from pydub import AudioSegment
 #from pydub.playback import play
 from scipy.fftpack import fft
-import numpy as np
-from matplotlib import pyplot as plt
+#import numpy as np
+#from matplotlib import pyplot as plt
 
 import time
 import RPi.GPIO as GPIO
