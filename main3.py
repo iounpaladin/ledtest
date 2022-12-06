@@ -8,8 +8,8 @@ from multiprocessing import Process
 
 import scipy.io.wavfile as wavfile
 import scipy
-from pydub import AudioSegment
-from pydub.playback import play
+#from pydub import AudioSegment
+#from pydub.playback import play
 from scipy.fftpack import fft
 import numpy as np
 from matplotlib import pyplot as plt
@@ -116,9 +116,9 @@ def visual():
         # break  # time.sleep(1)
 
 
-def pp():
-    song = AudioSegment.from_wav("test.wav")
-    play(song)
+#def pp():
+#    song = AudioSegment.from_wav("test.wav")
+#    play(song)
 
 
 if __name__ == "__main__":
